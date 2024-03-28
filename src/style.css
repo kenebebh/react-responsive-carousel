@@ -1,0 +1,13 @@
+.carousel {
+  text-align: center;
+}
+
+.carousel .slider {
+  width: 400px;
+  margin: auto;
+}
+
+.carousel .thumb {
+  width: 5%;
+  height: 50px;
+}
